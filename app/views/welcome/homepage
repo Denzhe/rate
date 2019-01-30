@@ -1,0 +1,54 @@
+<?php  ?>
+
+<body>
+
+<!-- main page -->
+<div class="main-page">
+    <!-- header -->
+    <div id="header-section" class="header-bg" data-lb="editable-optional" data-lb-id="header-section" data-lb-name="Header Section" data-lb-comment="Toggle section visibility">
+        <a href="#" data-lb="editable-optional editable-link link-only" data-lb-id="logo-link" data-lb-name="Logo" data-lb-comment="Select an image for your logo. Recommended size is 185 x 36 pixels.">
+            <img id="logo" src="img/logo.png" alt=""  data-lb="editable-image max-image-size=185 editable-optional" data-lb-id="logo-image" data-lb-name="Logo" data-lb-comment="Select an image for your logo. Recommended size is 185 x 36 pixels.">
+        </a>
+    </div>
+
+    <!-- banner -->
+      <!-- benefits  -->
+    <div id="benefits-section" class="customers-main" data-lb="editable-optional" data-lb-id="benefits-section" data-lb-name="Benefits Section" data-lb-comment="Toggle section visibility">
+        <div class="customers-center">
+            <div id="benefits-title" class="customers-title" data-lb="editable-rich-text editable-optional" data-lb-id="benefits-title" data-lb-name="Benefits Title" data-lb-comment="Enter your text here.">WEBINARS ARE MORE THAN JUST ANOTHER “TACTIC”</div>
+            <div id="benefits-boxes" class="customers-content" data-lb="editable-optional" data-lb-id="benefits-boxes" data-lb-name="Benefits Boxes" data-lb-comment="Toggle all boxes visibility">
+                <!--benefit box-->#Porpular in Games
+                <div id="benefit-box01" class="customers-text" data-lb="editable-optional" data-lb-id="benefits-box01" data-lb-name="Benefits Box 01" data-lb-comment="Toggle box visibility">
+                    <p id="benefit-box-text01" data-lb="editable-rich-text editable-optional" data-lb-id="benefit-box-text01" data-lb-name="Benefit Box 01 Text" data-lb-comment="Enter your text here.">Webinars are a business plan, not just a tactic.</p>
+                    <img id="benefit-box-divider01" src="img/border-arrow.png" alt="" data-lb="editable-image max-image-size=119 editable-optional" data-lb-id="benefit-box-divider01" data-lb-name="Benefit Box Divider 01" data-lb-comment="Select a divider image. Recommended size is 28 x 119 pixels.">
+                </div>
+                <!--benefit box-->
+                <div id="benefit-box02" class="customers-text" data-lb="editable-optional" data-lb-id="benefits-box02" data-lb-name="Benefits Box 02" data-lb-comment="Toggle box visibility">
+                    <p id="benefit-box-text02" data-lb="editable-rich-text editable-optional" data-lb-id="benefit-box-text02" data-lb-name="Benefit Box 02 Text" data-lb-comment="Enter your text here.">They’re one of the best sources of high-quality traffic.</p>
+                    <img id="benefit-box-divider02" src="img/border-arrow.png" alt="" data-lb="editable-image max-image-size=119 editable-optional" data-lb-id="benefit-box-divider02" data-lb-name="Benefit Box Divider 02" data-lb-comment="Select a divider image. Recommended size is 28 x 119 pixels.">
+                </div>
+                <!--benefit box-->
+                <div id="benefit-box03" class="customers-text" data-lb="editable-optional" data-lb-id="benefits-box03" data-lb-name="Benefits Box 03" data-lb-comment="Toggle box visibility">
+                                </div>
+                <!--benefit box-->
+                <div id="benefit-box04" class="customers-text last" data-lb="editable-optional" data-lb-id="benefits-box04" data-lb-name="Benefits Box 04" data-lb-comment="Toggle box visibility">
+                    <p id="benefit-box-text04" data-lb="editable-rich-text editable-optional" data-lb-id="benefit-box-text04" data-lb-name="Benefit Box 04 Text" data-lb-comment="Enter your text here.">They concentrate all the facets of your business into one focal point.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- content section  -->
+    <div id="content-section" class="body-content" data-lb="editable-optional" data-lb-id="content-section" data-lb-name="Content Section" data-lb-comment="Toggle section visibility">
+
+    </div>
+    <!-- cta -->
+
+    <!-- bottom button -->
+    <div id="bottom-button-section" class="bottom-button button" data-lb="editable-optional" data-lb-id="button-section" data-lb-name="Button Section" data-lb-comment="Toggle section visibility">
+        
+
+    </div>
+    <!-- footer -->
+
+</div><!-- end main page -->
+</body>
